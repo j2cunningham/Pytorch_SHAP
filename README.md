@@ -7,6 +7,7 @@ conda install pytorch torchvision -c pytorch
 conda install -c conda-forge matplotlib  
 conda install pandas scikit-learn plotly  
 conda install -c conda-forge opencv seaborn  
+conda install -c conda-forge category_encoders
 
 
 conda list --export > requirements.txt
