@@ -13,7 +13,7 @@ https://towardsdatascience.com/dealing-with-categorical-variables-by-using-targe
 
 https://towardsdatascience.com/pipeline-columntransformer-and-featureunion-explained-f5491f815f
 https://danielmuellerkomorowska.com/2021/02/03/a-deep-feedforward-network-in-pytorch-for-the-titanic-challenge/
-
+https://towardsdatascience.com/pytorch-tabular-binary-classification-a0368da5bb89
 
 conda list --export > requirements.txt
 
