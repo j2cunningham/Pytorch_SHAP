@@ -12,7 +12,7 @@ https://machinelearninginterview.com/topics/machine-learning/target-encoding-for
 https://towardsdatascience.com/dealing-with-categorical-variables-by-using-target-encoder-a0f1733a4c69
 
 https://towardsdatascience.com/pipeline-columntransformer-and-featureunion-explained-f5491f815f
-
+https://danielmuellerkomorowska.com/2021/02/03/a-deep-feedforward-network-in-pytorch-for-the-titanic-challenge/
 
 
 conda list --export > requirements.txt
