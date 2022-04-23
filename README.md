@@ -17,3 +17,7 @@ https://towardsdatascience.com/pytorch-tabular-binary-classification-a0368da5bb8
 
 conda list --export > requirements.txt
 
+
+shap
+
+https://towardsdatascience.com/pytorch-shap-explainable-convolutional-neural-networks-ece5f04c374f
