@@ -21,3 +21,6 @@ conda list --export > requirements.txt
 shap
 
 https://towardsdatascience.com/pytorch-shap-explainable-convolutional-neural-networks-ece5f04c374f
+
+shap deepexplainer
+https://shap-lrjball.readthedocs.io/en/latest/generated/shap.DeepExplainer.html
