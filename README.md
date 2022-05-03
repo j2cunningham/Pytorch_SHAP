@@ -1,5 +1,9 @@
 # Pytorch_SHAP
 
+I was unable to find a good example of using a Pytorch model for binary classification that also used SHAP for feature importance.  Below are the links to the data and some helpful links and commands.
+
+
+
 Data:  https://archive.ics.uci.edu/ml/datasets/Adult
 
 conda install numpy jupyter  
